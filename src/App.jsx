@@ -4,14 +4,14 @@ import './App.css'
 import SingleCard from './Components/SingleCard/SingleCard'
 
 const cardImg = [
-  { "src": "/memory_game/pics/alma.png", matched: false },
-  { "src": "/memory_game/pics/banan.png", matched: false },
-  { "src": "/memory_game/pics/dinnye.png", matched: false },
-  { "src": "/memory_game/pics/eper.png", matched: false },
-  { "src": "/memory_game/pics/kivi.png", matched: false },
-  { "src": "/memory_game/pics/meggy.png", matched: false },
-  { "src": "/memory_game/pics/narancs.png", matched: false },
-  { "src": "/memory_game/pics/szolo.png", matched: false }
+  { "src": "/memory_game_React/pics/alma.png", matched: false },
+  { "src": "/memory_game_React/pics/banan.png", matched: false },
+  { "src": "/memory_game_React/pics/dinnye.png", matched: false },
+  { "src": "/memory_game_React/pics/eper.png", matched: false },
+  { "src": "/memory_game_React/pics/kivi.png", matched: false },
+  { "src": "/memory_game_React/pics/meggy.png", matched: false },
+  { "src": "/memory_game_React/pics/narancs.png", matched: false },
+  { "src": "/memory_game_React/pics/szolo.png", matched: false }
 ];
 
 export default function App() {

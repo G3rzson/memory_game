@@ -16,7 +16,7 @@ export default function SingleCard({ card, handleChoice, flipped, disabled }) {
                 <img className='front' src={card.src} alt='card front'/>
                 <img className='back' 
                     onClick={handleClick} 
-                    src='/memory_game/pics/pattern.svg' 
+                    src='/memory_game_React/pics/pattern.svg' 
                     alt='card back'/>
             </div>
         </div>
